@@ -1,0 +1,29 @@
+.cabecalho {
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho__perfil-foto {
+    border-radius: 50%;
+    padding: 2rem 1rem;
+    width: 3.5625rem;
+}
+
+.negrito {
+    color: var(--cor-titulo);
+    font-weight: 700;
+}
+
+.textos {
+    color: var(--cor-texto);
+    font-weight: 400;
+}
+
+.cabecalho__perfil__titulo {
+    font-size: 1.375rem;
+}
+
+.cabecalho__perfil__texto {
+    font-size: 0.875rem;
+}
+
